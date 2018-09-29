@@ -1,1 +1,2 @@
 # Smart-Street-Light
+I have made it using Arduino Nano and IR sensors. basic idea of this project was that, initially when no vehicle present street light gets dim and when a vehicle comes in front of 1st street light the next two goes bright. This diming and making LEDs bright is all done by the Pulse Width Modulation(PWM) signals provided by the arduino nano which gives the various voltage levels to control the brightness of LED.
